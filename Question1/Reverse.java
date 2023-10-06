@@ -3,7 +3,7 @@ package Question1;
 public class Reverse {
     static int count =0;
     public static void main(String[] args) {
-     rev(153568);
+     rev(12345);
 
     }
 
